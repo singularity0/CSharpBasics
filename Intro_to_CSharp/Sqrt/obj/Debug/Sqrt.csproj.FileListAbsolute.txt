@@ -1,0 +1,5 @@
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\Sqrt\bin\Debug\Sqrt.exe.config
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\Sqrt\bin\Debug\Sqrt.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\Sqrt\bin\Debug\Sqrt.pdb
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\Sqrt\obj\Debug\Sqrt.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\Sqrt\obj\Debug\Sqrt.pdb

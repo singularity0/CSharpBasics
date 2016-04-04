@@ -1,0 +1,5 @@
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\DateTimePRint\bin\Debug\DateTimePRint.exe.config
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\DateTimePRint\bin\Debug\DateTimePRint.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\DateTimePRint\bin\Debug\DateTimePRint.pdb
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\DateTimePRint\obj\Debug\DateTimePRint.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\DateTimePRint\obj\Debug\DateTimePRint.pdb

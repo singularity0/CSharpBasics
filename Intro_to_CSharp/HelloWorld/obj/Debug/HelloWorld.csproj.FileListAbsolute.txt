@@ -1,0 +1,6 @@
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\HelloWorld\obj\Debug\HelloWorld.pdb

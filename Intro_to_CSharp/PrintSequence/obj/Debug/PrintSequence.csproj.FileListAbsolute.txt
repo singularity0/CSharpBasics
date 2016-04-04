@@ -1,0 +1,5 @@
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\messynger\Documents\Visual Studio 2015\Projects\Intro_to_CSharp\PrintSequence\obj\Debug\PrintSequence.pdb
