@@ -10,7 +10,7 @@ namespace CompanyInfo
     {
         static void Main(string[] args)
         {
-            string[] fillers = { null, "Address: ", "Tel. ", "Fax: ", "Web site: ", "Manager: ", "(age: ", ", tel. ", ")" };
+            string[] fillers = { null, "Address: ", "Tel. ", "Fax: ", "Web site: ", "Manager: ", " (age: ", ", tel. ", ")" };
             string[] input = new string[9];
             string[] output = new string[6];
 
@@ -27,10 +27,11 @@ namespace CompanyInfo
                     output[3] = fillers[3] + "(no fax)";
                 }
             }
-            
+
+
             output[5] = fillers[5] + input[5] + " " + input[6] + fillers[6] + input[7] + fillers[7] + input[8] + fillers[8];
 
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i <= 4; i++)
             {
                 Console.WriteLine(output[i]);
             }
