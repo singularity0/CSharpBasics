@@ -11,19 +11,28 @@ namespace _05.Calculate
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            decimal x = decimal.Parse(Console.ReadLine());
+            decimal n = decimal.Parse(Console.ReadLine());
+            double x = double.Parse(Console.ReadLine());
 
-            decimal sum = 1;
-            decimal factorial = 1;
+            double sum = 1;
+            int factorial = 1;
 
-            for (int i = 1 ; i <= n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 factorial *= i;
-                sum += factorial / Convert.ToDecimal(Math.Pow((double)x, i));
+                sum += factorial / xRaised(x, i);
             }
             Console.WriteLine("{0:F5}", sum);
+        }
 
+        static double xRaised(double xx, int degree)
+        {
+            double result = 1;
+            for (int i = 1; i <= degree; i++)
+            {
+                result *= xx;
+            }
+            return result;
         }
     }
 }

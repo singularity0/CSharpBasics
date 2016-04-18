@@ -13,22 +13,37 @@ namespace _15.TrailingZeroes
     {
         static void Main(string[] args)
         {
-            BigInteger n = BigInteger.Parse(Console.ReadLine());
-            //int trailing = new int();
+            int n = int.Parse(Console.ReadLine());
             int counter = 0;
-
-            while (true)
+            BigInteger factorial = 1;
+            if (n == 5)
             {
-                if (n % 10 == 0)
-                {
-                    counter += 1;
-                    n = n / 10;
-                }
-                else
-                {
-                    break;
-                }
+                counter = 1;
             }
+            else
+            {
+                for (int i = 5; i <= n; i*=5)
+                {
+                    counter +=  n/i;
+                }
+
+
+                //string str = factorial.ToString();
+
+                //for (int i = 0; i < str.Length; i++)
+                //{
+                //    if (str[str.Length - 1 - i] == '0')
+                //    {
+                //        counter += 1;
+                //    }
+                //    else
+                //    {
+                //        break;
+                //    }
+                //}
+            }
+
+            
             Console.WriteLine(counter);
         }
     }

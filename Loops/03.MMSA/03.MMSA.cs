@@ -25,7 +25,7 @@ namespace _03.MMSA
                 sum += number;
                 avg = sum/(i+1);
             }
-            Console.Write("{0}\n{1}\n{2}\n{3:F2}", min, max, sum, avg);
+            Console.Write("min={0:f2}\nmax={1:f2}\nsum={2:f2}\navg={3:F2}", min, max, sum, avg);
         }
     }
 }
